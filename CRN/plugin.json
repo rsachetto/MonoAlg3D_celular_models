@@ -1,0 +1,18 @@
+{
+    "id": "CRN",
+    "name": "Courtemanche-Ramirez-Nattel (CRN) 2017 Model (TASK1 & IKACh)",
+    "description": "Courtemanche-Ramirez-Nattel atrial cell model updated in 2017 with TASK-1 and IKACh currents.",
+    "author": "Courtemanche et al. (1998), modified/updated (2017)",
+    "version": "1.0.0",
+    "files": [
+        "CRN2017_TASK1_IKACh.c",
+        "CRN2017_TASK1_IKACh.cu",
+        "CRN2017_TASK1_IKACh.h",
+        "CRN2017_TASK1_IKACh_common.inc.c",
+        "build.sh"
+    ],
+    "parameters": {
+        "initial_v": -82.7,
+        "number_of_ode_equations": 26
+    }
+}
