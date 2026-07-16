@@ -5,5 +5,12 @@
         "description": "Courtemanche-Ramirez-Nattel atrial cell model updated in 2017 with TASK-1 and IKACh currents.",
         "author": "Courtemanche et al. (1998), modified/updated (2017)",
         "version": "1.0.0"
+    },
+    {
+        "id": "fhn",
+        "name": "Example Name for fhn",
+        "description": "A cellular model plugin for fhn.",
+        "author": "Your Name",
+        "version": "1.0.0"
     }
 ]

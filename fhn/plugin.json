@@ -1,0 +1,13 @@
+{
+    "id": "fhn",
+    "name": "Example Name for fhn",
+    "description": "A cellular model plugin for fhn.",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "files": [
+        "build.sh",
+        "fhn_mod.c",
+        "fhn_mod.cu",
+        "fhn_mod.h"
+    ]
+}
